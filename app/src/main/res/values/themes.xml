@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Base.Theme.TodoApp" parent="Theme.Material3.DayNight.NoActionBar">
+
+        <item name="android:windowBackground">?attr/android:colorBackground</item>
+
+        <item name="colorPrimary">#2196F3</item>
+        <item name="colorOnPrimary">#FFFFFFFF</item>
+        <item name="colorPrimaryContainer">#BBDEFB</item>
+        <item name="colorOnPrimaryContainer">#1976D2</item>
+
+        <item name="colorSecondary">#FF4081</item>
+        <item name="colorOnSecondary">#FFFFFFFF</item>
+
+        <item name="colorTertiary">@android:color/holo_green_dark</item>
+        <item name="colorOnTertiary">#FFFFFFFF</item>
+
+        <item name="android:colorBackground">#F5F5F5</item>
+        <item name="colorOnBackground">#212121</item>
+
+        <item name="colorSurface">#FFFFFF</item>
+        <item name="colorOnSurface">#212121</item>
+        <item name="colorOnSurfaceVariant">#757575</item>
+
+        <item name="colorError">#F44336</item>
+        <item name="colorOnError">#FFFFFFFF</item>
+
+        <item name="android:statusBarColor">#1976D2</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+
+    <style name="Theme.TodoApp" parent="Base.Theme.TodoApp" />
+
+    <style name="Theme.TodoApp.Splash" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:windowBackground">#F5F5F5</item>
+    </style>
+</resources>

@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Todo App</string>
+
+    <!-- Login/Register -->
+    <string name="email">Email</string>
+    <string name="password">Contraseña</string>
+    <string name="login">Iniciar Sesión</string>
+    <string name="register">Registrarse</string>
+    <string name="no_account">¿No tienes cuenta? Regístrate</string>
+    <string name="have_account">¿Ya tienes cuenta? Inicia sesión</string>
+
+    <!-- Tasks -->
+    <string name="my_tasks">Mis Tareas</string>
+    <string name="add_task">Agregar Tarea</string>
+    <string name="edit_task">Editar Tarea</string>
+    <string name="delete_task">Eliminar Tarea</string>
+    <string name="task_title">Título</string>
+    <string name="task_description">Descripción</string>
+    <string name="task_completed">Completada</string>
+    <string name="create">Crear</string>
+    <string name="save">Guardar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="delete">Eliminar</string>
+    <string name="empty_tasks">No tienes tareas\n¡Agrega una nueva!</string>
+    <string name="widget_description">Muestra tus tareas pendientes</string>
+
+    <!-- Menu -->
+    <string name="sync">Sincronizar</string>
+    <string name="logout">Cerrar sesión</string>
+
+    <!-- Messages -->
+    <string name="login_success">Inicio de sesión exitoso</string>
+    <string name="register_success">Registro exitoso</string>
+    <string name="operation_success">Operación exitosa</string>
+    <string name="sync_success">Sincronización completada</string>
+    <string name="task_created">Tarea creada</string>
+    <string name="task_updated">Tarea actualizada</string>
+    <string name="task_deleted">Tarea eliminada</string>
+
+    <!-- Errors -->
+    <string name="error_connection">Error de conexión</string>
+    <string name="error_auth">Error de autenticación</string>
+    <string name="error_sync">Error al sincronizar</string>
+    <string name="error_operation">Error en la operación</string>
+    <string name="email_required">El email es requerido</string>
+    <string name="email_invalid">Email inválido</string>
+    <string name="password_required">La contraseña es requerida</string>
+    <string name="password_short">La contraseña debe tener al menos 6 caracteres</string>
+    <string name="title_required">El título es requerido</string>
+
+    <!-- Confirmations -->
+    <string name="confirm_delete">¿Estás seguro de que quieres eliminar esta tarea?</string>
+    <string name="confirm_logout">¿Estás seguro de que quieres cerrar sesión?</string>
+    <string name="yes">Sí</string>
+    <string name="no">No</string>
+
+    <string name="widget_title">Mis Tareas</string>
+
+</resources>
